@@ -1,0 +1,8 @@
+
+[===============================================================]
+[ DLL files are the cheats                                      ]
+[ LUA files are addons/scripts for the cheats                   ]
+[ CFG files are configs/settings for the cheats                 ]
+[===============================================================]
+[ Warning: if there is no DLL file this means the cheat is paid ]
+[===============================================================]
