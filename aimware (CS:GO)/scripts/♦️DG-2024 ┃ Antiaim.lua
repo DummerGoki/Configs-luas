@@ -528,7 +528,6 @@ local function fakelag()
 end
 -----------------------------------------------------------------]
 local function main_CreateMove(cmd)
-    print("Pitch:"..cmd.viewangles.x)
     if(__Jitterside__==1) then
         __Jitterside__=2
     else
